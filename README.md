@@ -1,7 +1,3 @@
-Based on your specific needs, I couldn't locate a single GitHub repository that perfectly combines German news sentiment, regional coding, and populist voting data in one package. However, I found a highly relevant and robust dataset that serves as an excellent foundation for your thesis: a **geolocated dataset of German news articles** where about 70% include geographic locations.
-
-Here is a breakdown of this core dataset and how you can build upon it to complete your research project.
-
 ### 📰 The Geolocated German News Dataset
 
 This dataset is described in a Data Descriptor published in *Scientific Data* and aligns closely with your requirement for regionally coded news.
