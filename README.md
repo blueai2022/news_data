@@ -34,5 +34,3 @@ While not a perfect fit, the following GitHub repositories involve German text a
 2.  **Source Election Data**: Use the "PolData" repository or official sources to find data on election results for populist parties (like AfD) at the regional level in Germany.
 3.  **Develop Your Sentiment Model**: Decide on your method for sentiment analysis. You can train a model using the provided text embeddings or benchmark existing German sentiment tools for suitability.
 4.  **Seek Out Code**: Look for GitHub repositories that provide code for sentiment analysis on German text. You can use the methodologies from "GC News" or "NeMig" as a starting point and adapt them to work with your newly acquired news dataset.
-
-I hope this detailed analysis helps you move forward with your thesis. If you need help locating the specific download link for the geolocated news dataset or finding a suitable sentiment analysis tool, please feel free to ask.
